@@ -1,7 +1,7 @@
 //! Main module of the application
 //!
 //! This module contains the main function which handles the logging of the application to the
-//! stdout and handles the command line arguments provided and launches the `websurfx` server.
+//! stdout and handles the command line arguments provided and launches the `sognet` server.
 
 use std::net::TcpListener;
 
