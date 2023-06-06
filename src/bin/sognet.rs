@@ -5,7 +5,7 @@
 
 use std::net::TcpListener;
 
-use websurfx::{config_parser::parser::Config, run};
+use sognet::{config_parser::parser::Config, run};
 
 /// The function that launches the main server and registers all the routes of the website.
 ///
